@@ -62,9 +62,6 @@
     z-index: 5;
   }
 
-  .timeline li {
-    padding: -2em 0;
-  }
 
   .timeline .hexa {
     width: 16px;
@@ -187,7 +184,11 @@
     padding: 1em;
     z-index: 15;
   }
-
+  @media(max-width: 768px) {
+    .direction-l .desc, .direction-r .desc {
+      margin-bottom: 5em;
+  }
+  }
   @media(min-width: 768px) {
     .timeline {
       width: 660px;
@@ -273,10 +274,6 @@
 
     .time {
       padding: 5px 10px;
-    }
-
-    .direction-r .desc {
-      margin: 4em 0 0 0;
     }
   }
 

@@ -17,17 +17,18 @@ permalink: /jobs/
   }
 </style>
 <h1 class="headers">An Explanation</h1>
+
 <p style="text-align: justify">
-  I have worked in multiple jobs throughout the years. An observant can notice that I have worked multiple jobs at the same time. I have
-  This is due to the nature of my main career at the university as it has flexible time requirements for our teaching and other activities. 
-  This enabled me to have other jobs specially if they were also had flexible time requirements. 
+  I have worked in multiple jobs throughout the years, and an observant person can notice that I have held multiple jobs simultaneously. 
+  This is because of the flexible time requirements of my main career at the university, which includes teaching and other activities. 
+  This flexibility has enabled me to work other jobs, particularly those with flexible time requirements as well.
 </p>
 <p style="text-align: justify">
-  I personally believe that for the lecturer it is important to have a knowledge on the business side so he can provide practical knowledge 
-  to the students. And it is a plus side as a developer to have links with the university so I can provide businesses that I work for the
-  with new research aspects if needed and guarantee the best talents of new developers for them.
+  As a lecturer, I believe it is important to have knowledge about the business side of things so that I can provide practical knowledge to my students. 
+  As a developer, having connections with the university is also a plus as it allows me to provide businesses I work for with new research aspects if needed, 
+  and guarantees access to the best talents of new developers for them.
 </p>
-<hr style="margin: 10px 0px;box-shadow: 0px 2px 5px 2px rgba(0,0,0,0.28);height: 1px; color: #4572d3; width: 100%;">
+
 <style>
   .filter-button {
   position: relative;
@@ -54,11 +55,7 @@ permalink: /jobs/
 }
 </style>
 
-<div class="filter-container">
-  <button class="filter-button" id="all" onClick="filterSelection('all')" style="background:rgb(127, 182, 205);"><i class="fas fa-user"></i></button>
-  <button class="filter-button" id="academy" onClick="filterSelection('academy')"><i class="fas fa-user-graduate"></i></button>
-  <button class="filter-button" id="business" onClick="filterSelection('business')"><i class="fas fa-user-tie"></i></button>
-</div>
+
 
 
 <style>
@@ -121,6 +118,11 @@ permalink: /jobs/
 }
 </style>
 <h1 id="jobsTitle" class="headers">All Jobs</h1>
+<div class="filter-container">
+  <button class="filter-button" id="academy" onClick="filterSelection('academy')"><i class="fas fa-user-graduate"></i></button>
+  <button class="filter-button" id="all" onClick="filterSelection('all')" style="background:#20747b;"><i class="fas fa-user"></i></button>
+  <button class="filter-button" id="business" onClick="filterSelection('business')"><i class="fas fa-user-tie"></i></button>
+</div>
 <div class="job-container">
 {% for item in site.jobs reversed  %}
 <article class="job-card post-preview {{item.category}}">

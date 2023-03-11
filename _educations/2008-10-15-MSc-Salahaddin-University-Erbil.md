@@ -36,13 +36,13 @@ Masters Degree in Sahandin University-Erbil is a two year study first year is ma
 - Radiation and Propagation.
 - Digital Communication.
 
-## Algorithmes
+## Algorithms
 
 In the process of my masters degree, I have learned many algorithms and algorithms are used in many fields. I have studied Apriori algorithm for Association Rule Mining and proposed a modified version of Apriori algorithm for frequent and infrequent itemset Mining. The code of the algorithm is available in [Modified Apriori](https://github.com/polla-fattah/Associasion-mining-variation){:target="masterCode"}
 
 ## My Thesis
 
-You can find the MS OfficeWord version of my Thesis in the [GitHub repository](https://github.com/polla-fattah/Thesis){:target="Thesis"}, with a compiled [PDF version](https://github.com/polla-fattah/Thesis/blob/main/thesis.pdf){:target="DissertationPDF"}. And the defence presentation is available [here](https://github.com/polla-fattah/Thesis/blob/main/Defence%20Seminar.ppt){:target="presentation"}.
+You can find the MS OfficeWord version of my Thesis in the [GitHub repository](https://github.com/polla-fattah/Thesis){:target="Thesis"}, with a compiled [PDF version](https://github.com/polla-fattah/Thesis/blob/main/thesis.pdf){:target="DissertationPDF"}. And the defense presentation is available [here](https://github.com/polla-fattah/Thesis/blob/main/defense%20Seminar.ppt){:target="presentation"}.
 
 ## Transcript
 
@@ -59,27 +59,27 @@ I have worked under the supervision of [Dr Ibrahim Hamarash](https://www.researc
     <ul>
       <li style="list-style: none;">
           <i class="fas fa-map-marker"></i>
-          <span class="address-lable">Electrical&nbsp;Engineerign</span>
+          <span class="address-label">Electrical&nbsp;Engineerign</span>
       </li>
       <li style="list-style: none;">
           <i class="fas fa-university"></i>
-          <span class="address-lable">Engineering&nbsp;College</span>
+          <span class="address-label">Engineering&nbsp;College</span>
       </li>
       <li style="list-style: none;">
           <i class="fas fa-university"></i>
-          <span class="address-lable">Salahaddin&nbsp;University-Erbil</span>
+          <span class="address-label">Salahaddin&nbsp;University-Erbil</span>
       </li>
       <li style="list-style: none;">
           <i class="fas fa-road"></i>
-          <span class="address-lable">Kurkuk&nbsp;Road</span>
+          <span class="address-label">Kurkuk&nbsp;Road</span>
       </li>
       <li style="list-style: none;">
           <i class="fas fa-city"></i>
-          <span class="address-lable">Erbil</span>
+          <span class="address-label">Erbil</span>
       </li>
       <li style="list-style: none;">
           <i class="fas fa-map"></i>
-          <span class="address-lable">Iraq</span>
+          <span class="address-label">Iraq</span>
       </li>
     </ul>
   </a>

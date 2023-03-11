@@ -16,7 +16,7 @@ permalink: /academy/lecture/data-mining/
 
 - **University**: {{page.university}}
 - **Department**: {{page.department}}
-- **Mu Status**: {{page.myStatus}}
+- **My Status**: {{page.myStatus}}
 - **Level**: {{page.level}}
 - **Year**: {{page.year}}
 

@@ -8,7 +8,7 @@ university: Koya University
 department: Computer Engineering Dept.
 level: BSc
 year: 2009-2011
-myStatus: Assitant Lecturer
+myStatus: Assistant Lecturer
 permalink: /academy/lecture/internet-technology/
 ---
 
@@ -16,7 +16,7 @@ permalink: /academy/lecture/internet-technology/
 
 - **University**: {{page.university}}
 - **Department**: {{page.department}}
-- **Mu Status**: {{page.myStatus}}
+- **My Status**: {{page.myStatus}}
 - **Level**: {{page.level}}
 - **Year**: {{page.year}}
 

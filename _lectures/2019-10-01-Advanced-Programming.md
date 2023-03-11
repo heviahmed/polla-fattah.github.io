@@ -16,13 +16,13 @@ permalink: /academy/lecture/advanced-programming/
 
 - **University**: {{page.university}}
 - **Department**: {{page.department}}
-- **Mu Status**: {{page.myStatus}}
+- **My Status**: {{page.myStatus}}
 - **Level**: {{page.level}}
 - **Year**: {{page.year}}
 
 ## Course Description
 
-This cource aims to introduce the advanced concepts of programming languages. It also introduces programming features and tools that are used in the field of software engineering. Especialy using clean code principles and design patterns.
+This course aims to introduce the advanced concepts of programming languages. It also introduces programming features and tools that are used in the field of software engineering. Especially using clean code principles and design patterns.
 
 ## Course Objectives
 

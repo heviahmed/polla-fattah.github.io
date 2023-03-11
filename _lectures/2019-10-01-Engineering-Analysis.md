@@ -16,13 +16,13 @@ permalink: /academy/lecture/ea/
 
 - **University**: {{page.university}}
 - **Department**: {{page.department}}
-- **Mu Status**: {{page.myStatus}}
+- **My Status**: {{page.myStatus}}
 - **Level**: {{page.level}}
 - **Year**: {{page.year}}
 
 ## Course Description
 
-I have acurated this course from the traditional course that we had at the college but adapted it to fit more with software engineering. To do so I have included multiple topics from the book nature of code. The course intended to teach the theoritical and practical level of how to implement mathematics into the software engineering.
+I have curated this course from the traditional course that we had at the college but adapted it to fit more with software engineering. To do so I have included multiple topics from the book nature of code. The course intended to teach the theoretical and practical level of how to implement mathematics into the software engineering.
 
 ## Course Objectives
 
@@ -31,12 +31,12 @@ Calculus, Fourier Transform, Random Variables, Simulating Physical Systems, floc
 
 ## Course Content
 
-- Dirivatives
+- Derivatives
 - Integration
 - Matrix
 - vector
 - generating random numbers
-- simulatign gravitational systems
+- simulating gravitational systems
 - Simulating Wind forces
 - Simulating autonomous tracking
 - Steering and Arrival

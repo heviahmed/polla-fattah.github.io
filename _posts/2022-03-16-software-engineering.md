@@ -2,7 +2,7 @@
 layout: post
 title: "Software Engineering"
 subtitle: "potentials and challenges of Software Eng"
-excerpt: "In the interview with the KTV I discussed the history and the mission of Software Engineering Departmentat"
+excerpt: "In the interview with the KTV I discussed the history and the mission of Software Engineering Department"
 date: 2022-03-16 23:45:13 -0400
 background: "/img/posts/2022-03-16-software-engineering/background.webp"
 categories: ["Education", "University"]

@@ -19,13 +19,13 @@ body p{text-align: justify}
 </style>
 # Bologna Process
 
-Bologna Process[^1] is the pedagogical[^2] method that has been adopted by most Europian Universities. It encourages the credit collection method by the students. Once they fulfill the required amount of credit points they can graduate from that school. This process has the advantage of giving the flexibility of choosing subjects to the students so they can, with the help of advisors, choose their learning path and future carrier.
+Bologna Process[^1] is the pedagogical[^2] method that has been adopted by most European Universities. It encourages the credit collection method by the students. Once they fulfill the required amount of credit points they can graduate from that school. This process has the advantage of giving the flexibility of choosing subjects to the students so they can, with the help of advisors, choose their learning path and future carrier.
 
-In Kurdistan Region, we have started to adopt this process too. Particularly in our department, "Software Engineering department" we are more than enthusiastic about this process as now we can enable our students to choose diffrent paths for thier carrier by picking among the available subjects so that they can specialize in diffierent fields of software devilopment and engineering.
+In Kurdistan Region, we have started to adopt this process too. Particularly in our department, "Software Engineering department" we are more than enthusiastic about this process as now we can enable our students to choose different paths for their carrier by picking among the available subjects so that they can specialize in different fields of software development and engineering.
 
  However, this change might take some time due to multiple reasons first is purely technical, as with every change, there are always obstacles to overcome, and perks to understand so that we can implement the process fully with no problems. There is much training that has to happen for the teachers, staff, and students. As well as implementing a new software process that supports this kind of semester-based credit collection instead of annual passing of the subjects.
 
- The second issue that we have is resistance to change. Some other departments and colleges hate this new process. This hate mostly originates from two sources, first, they love the status quo and do not want to roame into new territories, second, they do not comprehend the benefits of the process for their college/department and see the old process as more fit for thier needs. 
+ The second issue that we have is resistance to change. Some other departments and colleges hate this new process. This hate mostly originates from two sources, first, they love the status quo and do not want to roam into new territories, second, they do not comprehend the benefits of the process for their college/department and see the old process as more fit for their needs. 
 
  <video  controls>
   <source src="/img/posts/2022-09-09-Bologna-Process/meeting.mp4" type="video/mp4">

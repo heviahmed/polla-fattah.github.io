@@ -31,4 +31,4 @@ technologies:
 
 ## Project Description
 
-This was myfinal year project. I was responsible for the design and implementation of the chat application using Java. It was a multi-threaded, I18n, and client/server chat application.
+This was the final year project. I was responsible for the design and implementation of the chat application using Java. It was a multi-threaded, I18n, and client/server chat application.

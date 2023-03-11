@@ -26,7 +26,7 @@ Where _c<sub>i</sub>, c<sub>j</sub> &#8712; c_ of size _m_ and the maximum dista
 
 ## Davies-Bouldin Index
 
-This measure is introduced by Davies et al. [^4]. It calculates intera cluster compactness and inter cluster separation by producing the ratio of spreading sample points around mean (i.e. variation) to the distance between mean of clusters [^2].
+This measure is introduced by Davies et al. [^4]. It calculates internal cluster compactness and inter cluster separation by producing the ratio of spreading sample points around mean (i.e. variation) to the distance between mean of clusters [^2].
 
 {% include image.html url="/img/posts/2020-03-09-Internal-Cluster-Validation/db.png" description="" %}
 
@@ -56,7 +56,7 @@ As with SD, the _Scatter_ indicates the average compactness of clusters, smaller
 _Reference_
 
 [^1]: Zaki, M. J. and Meira, M. J. (2014) Data Mining and Analysis: Fundamental Concepts and Algorithms, Cambridge University Press. New York: Cambridge University Press.
-[^2]: Rendón, E. and Abundez, I. (2011) ‘Internal versus External cluster validation indexes’, International Journal of computers and communications, 5(1), pp. 27–34. Available at: http://w.naun.org/multimedia/UPress/cc/20-463.pdf (Accessed: 7 April 2013).
+[^2]: Rendón, E. and Abundez, I. (2011) ‘Internal versus External cluster validation indexes’, International Journal of computers and communications, 5(1), pp. 27–34. available at: http://w.naun.org/multimedia/UPress/cc/20-463.pdf (Accessed: 7 April 2013).
 [^3]: Dunn, J. C. (1973) ‘A Fuzzy Relative of the ISODATA Process and Its Use in Detecting Compact Well-Separated Clusters’, Journal of Cybernetics, 3(3), pp. 32–57. doi: 10.1080/01969727308546046.
 [^4]: Davies, D. L. and Bouldin, D. W. (1979) ‘A cluster separation measure’, IEEE transactions on pattern analysis and machine intelligence, 1(2), pp. 224–227. doi: 10.1109/TPAMI.1979.4766909.
 [^5]: Halkidi, M., Vazirgiannis, M. and Batistakis, Y. (2000) ‘Quality scheme assessment in the clustering process’, Principles of Data Mining and Knowledge Discovery, pp. 265–276.

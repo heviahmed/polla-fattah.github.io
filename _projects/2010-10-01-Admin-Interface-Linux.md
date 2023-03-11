@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Webbased Interface for Linux Commands"
+title: "Web-based Interface for Linux Commands"
 organization: "TU Berlin"
 description: "Create a web-based interface for linux commands using GWT."
 date: 2004-10-01

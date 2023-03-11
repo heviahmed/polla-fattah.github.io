@@ -8,7 +8,7 @@ university: Salahaddin University-Erbil
 department: Software Engineering Dept.
 level: BSc
 year: 2019-2020
-myStatus: Assitant Lecturer
+myStatus: Assistant Lecturer
 permalink: /academy/lecture/data-structure/
 ---
 
@@ -16,13 +16,13 @@ permalink: /academy/lecture/data-structure/
 
 - **University**: {{page.university}}
 - **Department**: {{page.department}}
-- **Mu Status**: {{page.myStatus}}
+- **My Status**: {{page.myStatus}}
 - **Level**: {{page.level}}
 - **Year**: {{page.year}}
 
 ## Course Description
 
-This course is an introductory course to various data structures that can be used in computer science with different algorithms. The course emphasises on the elegancy and efficiency of the codes. This course is important to understand the underlying mathematics to measure the big O.
+This course is an introductory course to various data structures that can be used in computer science with different algorithms. The course emphasizes on the elegancy and efficiency of the codes. This course is important to understand the underlying mathematics to measure the big O.
 
 ## Course Objectives
 

@@ -8,7 +8,7 @@ university: Tishk International University
 department: Department of Computer Engineering
 level: BSc
 year: 2019
-myStatus: Assitant Lecturer
+myStatus: Assistant Lecturer
 permalink: /academy/lecture/distributed-systems/
 ---
 
@@ -16,7 +16,7 @@ permalink: /academy/lecture/distributed-systems/
 
 - **University**: {{page.university}}
 - **Department**: {{page.department}}
-- **Mu Status**: {{page.myStatus}}
+- **My Status**: {{page.myStatus}}
 - **Level**: {{page.level}}
 - **Year**: {{page.year}}
 

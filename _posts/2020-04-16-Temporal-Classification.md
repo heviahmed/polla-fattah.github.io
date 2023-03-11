@@ -49,7 +49,7 @@ _References_
 [^2]: Wang, J. and Karypis, G. (2005) ‘HARMONY: Efficiently Mining the Best Rules for Classification’, Proceedings of the 2005 SIAM International Conference on Data Mining, pp. 205--216.
 [^3]:Rabiner, L. and Juang, B.-H. (1993) Fundamentals of speech recognition. PTR Prentice Hall.
 [^4]: Keogh, E. and Ratanamahatana, C. A. (2005) ‘Exact indexing of dynamic time warping’, Knowledge and Information Systems, 7, pp. 358–386. doi: 10.1007/s10115-004-0154-9.
-[^5]: Regan, M. (2014) K-Nearest Neighbors with Dynamic Time Warping, GitHub. Available at: https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping.
+[^5]: Regan, M. (2014) K-Nearest Neighbors with Dynamic Time Warping, GitHub. available at: https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping.
 [^6]: Berndt, D. and Clifford, J. (1994) ‘Using dynamic time warping to find patterns in time series’, AAAI-94 Workshop on Knowledge Knowledge Discovery in Databases, 10(16), pp. 359–370.
 [^7]:Wei, L. and Keogh, E. (2006) ‘Semi-supervised time series classification’, Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining - KDD ’06, p. 748. doi: 10.1145/1150402.1150498.
 [^8]: Kaj’an, L. et al. (2006) ‘Application of a simple likelihood ratio approximant to protein sequence classification’, Bioinformatics, 22(23), pp. 2865–2869. doi: 10.1093/bioinformatics/btl512.

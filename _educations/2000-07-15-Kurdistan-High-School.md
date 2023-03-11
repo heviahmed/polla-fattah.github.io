@@ -49,19 +49,19 @@ The diploma certificate can be found in this [link](/img/education/DeplomaCertif
     <ul>
       <li style="list-style: none;">
           <i class="fas fa-map-marker"></i>
-          <span class="address-lable">Kudistan&nbsp;High&nbsp;School</span>
+          <span class="address-label">Kudistan&nbsp;High&nbsp;School</span>
       </li>
       <li style="list-style: none;">
           <i class="fas fa-road"></i>
-          <span class="address-lable">30M Road</span>
+          <span class="address-label">30M Road</span>
       </li>
       <li style="list-style: none;">
           <i class="fas fa-city"></i>
-          <span class="address-lable">Erbil</span>
+          <span class="address-label">Erbil</span>
       </li>
       <li style="list-style: none;">
           <i class="fas fa-map"></i>
-          <span class="address-lable">Iraq</span>
+          <span class="address-label">Iraq</span>
       </li>
     </ul>
   </a>

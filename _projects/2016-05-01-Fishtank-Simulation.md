@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "FIshtank Simulation"
+title: "Fish-Tank Simulation"
 organization: "University of Nottingham"
 description: "Leading a team of developers to create a simulation for fish in a tank using openGL."
 date: 2016-05-01

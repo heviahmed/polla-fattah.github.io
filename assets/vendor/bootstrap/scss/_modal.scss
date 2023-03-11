@@ -55,7 +55,7 @@
   }
 }
 
-.modal-dialog-scrollable {
+.modal-dialog-scrollabel {
   display: flex; // IE10/11
   max-height: subtract(100%, $modal-dialog-margin * 2);
 
@@ -88,7 +88,7 @@
   }
 
   // Ensure `.modal-body` shows scrollbar (IE10/11)
-  &.modal-dialog-scrollable {
+  &.modal-dialog-scrollabel {
     flex-direction: column;
     justify-content: center;
     height: 100%;
@@ -204,7 +204,7 @@
     margin: $modal-dialog-margin-y-sm-up auto;
   }
 
-  .modal-dialog-scrollable {
+  .modal-dialog-scrollabel {
     max-height: subtract(100%, $modal-dialog-margin-y-sm-up * 2);
 
     .modal-content {

@@ -1,11 +1,164 @@
 <!-- Footer -->
 
-<hr>
 
-<footer>
+
+
+
+
+
+
+
+
+<style>
+  .site-footer {
+    background-color: #26272b;
+    padding: 45px 0 20px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #737373;
+  }
+
+  .site-footer hr {
+    border-top-color: #bbb;
+    opacity: 0.5
+  }
+
+  .site-footer hr.small {
+    margin: 20px 0
+  }
+
+  .site-footer h6 {
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 5px;
+    letter-spacing: 2px
+  }
+
+  .site-footer a {
+    color: #737373;
+  }
+
+  .site-footer a:hover {
+    color: #0085A1;
+    text-decoration: none;
+  }
+
+  .footer-links {
+    padding-left: 0;
+    list-style: none
+  }
+
+  .footer-links li {
+    display: block
+  }
+
+  .footer-links a {
+    color: #737373
+  }
+
+  .footer-links a:active,
+  .footer-links a:focus,
+  .footer-links a:hover {
+    color: #0085A1;
+    text-decoration: none;
+  }
+
+  .footer-links.inline li {
+    display: inline-block
+  }
+
+  .site-footer .social-icons {
+    text-align: right
+  }
+
+  .site-footer .social-icons a {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 6px;
+    margin-right: 0;
+    border-radius: 100%;
+    background-color: #33353d
+  }
+
+  .copyright-text {
+    margin: 0
+  }
+
+  @media (max-width:991px) {
+    .site-footer [class^=col-] {
+      margin-bottom: 30px
+    }
+  }
+
+  @media (max-width:767px) {
+    .site-footer {
+      padding-bottom: 0
+    }
+
+    .site-footer .copyright-text,
+    .site-footer .social-icons {
+      text-align: center
+    }
+  }
+
+
+</style>
+
+
+
+<!-- Site footer -->
+<footer class="site-footer">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="col-sm-12 col-md-6">
+        <h6>About</h6>
+        <p class="text-justify">
+          I am a software engineer and data mining expert with a PhD in the field. With extensive experience in both academia and industry consulting, 
+          I am passionate about using my skills to drive business growth and help organizations make better decisions. 
+          My expertise includes programming languages, database management, statistical modeling, and machine learning techniques. 
+          I am committed to staying up-to-date with the latest trends and advancements in the field to ensure that my clients receive the most effective solutions.
+        </p>
+      </div>
+
+      <div class="col-xs-6 col-md-3">
+        <h6>Main Links</h6>
+        <ul class="footer-links">
+          <li><a href="{{"/" | relative_url }}">Home</a></li>
+          <li><a href="{{ "/posts" | relative_url }}">Posts</a></li>
+          <li><a href="{{"/academy" | relative_url }}">Academy</a></li>
+          <li><a href="{{"/business" | relative_url }}">Business</a></li>
+          <li><a href="{{"/business/projects" | relative_url }}">Projects</a></li>
+          <li><a href="{{"/academy/publications/" | relative_url }}">Publications</a></li>
+          <li><a href="{{"/academy/lectures/" | relative_url }}">Lectures</a></li>
+          <li><a href="{{"/jobs" | relative_url }}">Jobs</a></li>
+        </ul>
+      </div>
+
+      <div class="col-xs-6 col-md-3">
+        <h6>About Me</h6>
+        <ul class="footer-links">
+          <li><a href="{{"about" | relative_url }}">About</a></li>
+          <li><a href="{{"/contacts" | relative_url }}">Contact</a></li>
+          <li><a href="{{"/developer" | relative_url }}">Dev Skills</a></li>
+          <li><a href="{{"/academy/educations/" | relative_url }}">Education</a></li>
+          <li><a href="{{"/academy/cv/" | relative_url }}">Academic CV</a></li>
+          <li><a href="{{"/business/cv/" | relative_url }}">Business CV</a></li>
+        </ul>
+      </div>
+    </div>
+    <hr>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-sm-6 col-xs-12">
+        <p class="copyright-text">Copyright &copy; {{ 'now' | date: "%Y" }} All Rights Reserved by
+          <a href="http://polla.dev">Polla Fattah</a>.
+        </p>
+      </div>
+
+      <div class="col-md-4 col-sm-6 col-xs-12">
         <ul class="list-inline text-center">
           {% if site.twitter_username %}
           <li class="list-inline-item">

@@ -19,15 +19,23 @@ technologies:
     icon: "fas fa-network-wired"
     name: "Networking"
 ---
-
+<style>
+  ul p {
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+</style>
 ## Highlights
 
 - **Project Title:** _{{page.title}}_
 - **Organization:** _{{page.organization}}_
 - **My Role:** _{{page.my-role}}_
-- **Tools:** _{% for item in page.technologies %}{{ item.name }}&nbsp;&middot;&nbsp;{% endfor %}_
-- **Completed Date**: _{{page.date  | date: '%B-%Y'}}_{% if page.source != "" %}
-- **Source**: [{{page.source}}]({{page.source}}){:target="{{page.title}}"}{% endif %}
+- **Tools:** 
+  {% for item in page.technologies %}
+    - {{ item.name }}
+  {% endfor %}
+- **Completed Date**: _{{page.date  | date: '%B-%Y'}}_
+- **Source**: [{{page.source}}]({{page.source}}){:target="{{page.title}}"}
 
 ## Project Description
 

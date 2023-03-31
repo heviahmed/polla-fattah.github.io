@@ -9,7 +9,7 @@ category: application
 my-role: "Sole Developer"
 technologies:
   - fa: false
-    icon: "fab fa-flutter"
+    icon: "flutter"
     name: "Flutter"
 ---
 

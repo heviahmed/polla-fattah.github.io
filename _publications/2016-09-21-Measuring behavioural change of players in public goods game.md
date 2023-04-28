@@ -24,3 +24,4 @@ abstract: |
 
 - Type: {{ page.type }}
 - Link: [arXiv](https://arxiv.org/abs/1607.05913){:target="\_blank"}
+{% if page.link != "" %} - Link: [ {{ page.publisher }} ]({{page.link}}){: target="\_blank" }{% endif %}

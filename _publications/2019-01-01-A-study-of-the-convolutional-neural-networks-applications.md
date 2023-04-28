@@ -23,3 +23,4 @@ abstract: |
 ## Extra info
 
 - Type: {{ page.type }}
+{% if page.link != "" %} - Link: [ {{ page.publisher }} ]({{page.link}}){: target="\_blank" }{% endif %}

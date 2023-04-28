@@ -2,12 +2,12 @@
 layout: lecture
 title: Advanced Database
 subtitle: ""
-date: 2018-10-01
+date: 2023-10-01
 background: /img/lecture/database.png
 university: Salahaddin University-Erbil
 department: Software Engineering Dept.
 level: BSc
-year: 2018-Now
+year: 2018-Current
 myStatus: Lecturer
 permalink: /academy/lecture/advanced-database/
 ---

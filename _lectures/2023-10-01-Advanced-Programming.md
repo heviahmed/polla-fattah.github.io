@@ -1,13 +1,13 @@
 ---
 layout: lecture
-title: Advanced Programming
+title: Advance Programming
 subtitle: Using Java
-date: 2019-10-01
+date: 2023-09-01
 background: /img/lecture/java.jpg
 university: Salahaddin University-Erbil
 department: Software Engineering Dept.
 level: BSc
-year: 2019-Now
+year: 2019-Current
 myStatus: Lecturer
 permalink: /academy/lecture/advanced-programming/
 ---

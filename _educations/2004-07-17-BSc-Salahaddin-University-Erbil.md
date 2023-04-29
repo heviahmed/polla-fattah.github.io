@@ -6,7 +6,7 @@ rank: "BSc"
 final_work_label: "Graduation Project"
 final_work: "Kurdish Chat server/Client using Java"
 permalink: "educations/BSc-Software-Engineering"
-subtitle: "Salahaddin University-Erbil"
+awarding_body: "Salahaddin University-Erbil"
 date: 2004-07-15
 start_date: 2000-10-01
 end_date: 2004-07-15

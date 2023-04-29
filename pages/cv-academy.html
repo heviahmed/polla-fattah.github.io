@@ -55,18 +55,19 @@ permalink: /academy/cv/
         </p>
     </div>
     <p class="element" style="text-align: justify;width: 100%;">
-        I am working in the filed of Artificial Intelligence, Machine Learning, Deep Learning and Data Mining. 
-        The focus of my research is to harness the power of computation to further advance our understanding of the nature of thinking and processing. 
-        And to develop algorithms that solve hard problems of automating and extracting information from data. 
+        I am working in the field of AI, ML, Deep Learning and Data Mining. 
+        I strive to harness the power of computation to further advance our understanding of the nature of thinking and processing information. 
+        Furthermore, I am trying to develop algorithms that solve hard problems of automating and extracting information from data. 
         My goal is to use these researches to further develop my society and our understanding for the science and its implications.
     </p>
         
         <h1 class="cvh1">Education</h1>
         {% for e in site.educations reversed %}
         <div class='element'>
-            <h2>{{e.establishment}} - {{e.rank}}</h2>
-            <strong>{{e.final_work_label}}:</strong>{{e.final_work}}<br />
-               <strong>Year:</strong>{{e.start_date | date: '%Y'}}-{{e.end_date | date: '%Y'}}
+            <h2>{{e.title}}</h2>
+            <strong>{{e.final_work_label}}:</strong> {{e.final_work}}<br />
+            <strong>Awarding Body:</strong> {{e.establishment}}, {{e.awarding_body}}.<br />
+            <strong>Study Years:</strong> {{e.start_date | date: '%Y'}}-{{e.end_date | date: '%Y'}}.
         </div>
         {% endfor %}
         

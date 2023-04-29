@@ -2,7 +2,7 @@
 layout: lecture
 title: Advanced Database
 subtitle: ""
-date: 2023-10-01
+date: 2020-02-01
 background: /img/lecture/database.png
 university: Salahaddin University-Erbil
 department: Software Engineering Dept.

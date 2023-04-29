@@ -6,7 +6,7 @@ rank: "MSc"
 final_work_label: "Thesis"
 final_work: "Design and Implementation of a Proposed Technique for Association Rule Mining"
 permalink: "educations/MSc-Information-Technology"
-subtitle: "Salahaddin University-Erbil"
+awarding_body: "Salahaddin University-Erbil"
 date: 2008-07-15
 start_date: 2000-10-01
 end_date: 2008-07-15

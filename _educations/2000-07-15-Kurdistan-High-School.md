@@ -1,12 +1,12 @@
 ---
 layout: education
-title: "Deploma: Scientific Studies"
+title: "Diploma: Scientific Studies"
 establishment: "Kurdistan High School–Hawler"
-rank: "Deploma"
+rank: "Diploma"
 final_work_label: "Major"
 final_work: "Scientific Studies"
 permalink: "educations/Kurdistan-High-School"
-subtitle: "Kurdistan High School–Hawler "
+awarding_body: ""
 date: 2000-07-15 23:45:13  +0300
 start_date: 1996-09-01 23:45:13  +0300
 end_date: 2000-07-01 23:45:13 +0300
@@ -16,11 +16,11 @@ background: "/img/education/kurdistanyKwran.jpg"
 
 ## Kudistan High School for Boys
 
-Is one of the best schools in the Erbil and Kurdistan. The main study is in Kurdish languae. This school is famous of producing the highst number of graduates that attent STEM subject colleges specially Engineering and Medical. At my time Mr Aras was the principal of this school. I had privlage to study at the hands of the best teachers in the Kurdistan. I have learned a lot of subjects in this school. Along side with other activities like playing football, chess and drawing.
+Is one of the best schools in the Erbil and Kurdistan. The main study is in Kurdish language. This school is famous of producing the highest number of graduates that attend STEM subject colleges specially Engineering and Medical. At my time Mr Aras was the principal of this school. I had the privilege to study at the hands of the best teachers in the Kurdistan. I have learned a lot of subjects in this school. Along side with other activities like playing football, chess and drawing.
 
 ## Subjects that I have learned
 
-While the main focuse was in Scientific subjects, we have also learned other subjects like languages and social studies along side with other activities like playing like sport and art.
+While the main focus was in Scientific subjects, we have also learned other subjects like languages and social studies along side with other activities like playing like sport and art.
 
 - Scientific Subjects
   - Mathematics

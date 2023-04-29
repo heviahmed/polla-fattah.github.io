@@ -6,7 +6,7 @@ rank: "IT Administrator"
 final_work_label: "Final Project"
 final_work: "Crating virtual servers that are essential for running a university"
 permalink: "educations/IT-Administration"
-subtitle: "Technical University of Berlin"
+awarding_body: "Technical University of Berlin"
 date: 2010-11-15
 start_date: 2010-04-15
 end_date: 2010-11-15

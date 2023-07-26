@@ -1,15 +1,15 @@
 ---
 layout: lecture
-title: Advanced Database
+title: Advance Database
 subtitle: ""
-date: 2020-02-01
+date: 2023-10-01
 background: /img/lecture/database.png
 university: Salahaddin University-Erbil
 department: Software Engineering Dept.
 level: BSc
 year: 2018-Current
 myStatus: Lecturer
-permalink: /academy/lecture/advanced-database/
+permalink: /academy/lecture/advance-database/
 ---
 
 ## General Information
@@ -132,4 +132,3 @@ Suggestions for the database systems(Not Mandatory):
 10. **Fitness Club Membership System**: Create a system for managing memberships, class schedules, and instructor information for a fitness club.
 
 Make sure to collaborate effectively and divide the tasks evenly between both team members.
-
